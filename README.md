@@ -4,6 +4,7 @@
 
 [![Policy](https://img.shields.io/badge/policy-no--execute-blue)](#no-execute-policy-language-agnostic)
 [![Language Agnostic](https://img.shields.io/badge/language-agnostic-success)](#)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-2BB869)](http://creativecommons.org/licenses/by-nc/4.0/)
 [![Security Warning](https://img.shields.io/badge/SECURITY-Review%20AGENT.md%20before%20use-critical)](#security-warning)
 
 > Drop this into any **repo or local workspace** to standardize how AI agents (Claude, GPT, etc.) behave when proposing commands or automations. Works across Windows/macOS/Linux, any runtime or package manager. No Git host required.
